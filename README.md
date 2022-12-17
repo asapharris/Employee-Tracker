@@ -1,6 +1,8 @@
 # Employee Tracker  ![Project License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 # AsapHarris's project
 
+[Untitled_ Dec 16, 2022 8_08 PM.webm](https://user-images.githubusercontent.com/116297281/208215623-ae33f954-9002-41ac-99cb-166782d6efc4.webm)
+
 ## Description
 This project keeps track of employee information in the terminal for application use.
 
